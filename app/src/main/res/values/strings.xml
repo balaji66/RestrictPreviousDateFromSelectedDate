@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Restrict Previous Date From Selected Date</string>
+    <string name="from_date"><b>From date</b></string>
+    <string name="to_date"><b>To date</b></string>
+</resources>
